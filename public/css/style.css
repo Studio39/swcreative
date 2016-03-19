@@ -12,8 +12,12 @@
 /*    box-shadow: #E2E2E2 1px 1px 1px;*/
 /*    background: #fff;*/
     padding: 10px;
-    margin-top:10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .post p {
     font-weight:100;
+}
+strong {
+    font-weight:500;
 }

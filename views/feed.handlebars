@@ -1,0 +1,36 @@
+
+<div class="feature-img text-center" style="background-image: url('{{cover_picture}}');'" >
+    <img src="{{profile_picture}}" alt="{{name}} composit profile." class="img-circle img-thumbnail">
+    <h1> {{name}} </h1>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            {{#each posts}}
+            <div class="post">
+                {{#if twitter}}
+                {{#if image}}
+                <img src="{{image}}" alt="{{title}}" class="img-responsive img-rounded">
+                {{/if}}
+                <h3> {{title}} </h3>
+                <p><strong>Nate Sanchez</strong> @nsg223 &bull; March 15</p>
+                <p>     {{content}} </p>
+                <p class="pull-right">View on <i class='fa fa-twitter'></i> Twitter </p>
+                {{/if}}
+                
+                {{#if behance}}
+                {{#if image}}
+                <img src="{{image}}" alt="{{title}}" class="img-responsive img-rounded">
+                {{/if}}
+                <h3> {{title}} </h3>
+                <p>     {{content}} </p>
+                <p class="pull-right">View on <i class='fa fa-behance'></i> Behance </p>
+                {{/if}}
+            </div>
+            {{/each}}
+        </div>
+    </div>
+    
+</div>
