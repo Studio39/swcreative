@@ -1,1 +1,24 @@
-<h1>Test</h1>
+
+<div class="feature-img text-center" style="background-image: url('{{cover_picture}}');'" >
+    <img src="{{profile_picture}}" alt="{{name}} composit profile." class="img-circle img-thumbnail">
+    <h1> {{name}} </h1>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            {{#each posts}}
+            <div class="post">
+                <h3> {{title}} </h3>
+                <p><i class='fa fa-twitter'></i> {{network}} &rlm; @nsg223 &rlm; March 15</p>
+                {{#if image}}
+                <img src="{{image}}" alt="{{title}}" class="img-responsive">
+                {{/if}}
+                <p>     {{content}} </p>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+    
+</div>
