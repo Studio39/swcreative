@@ -1,4 +1,19 @@
 module.exports = function (app) {
+    
+https.get('https://www.behance.net/v2/users/joshdholmes?api_key=LRsUjtF1ZLMB84T7QF7zoS7Mn7jLPNwA', function(res){
+    var body = '';
+
+    res.on('data', function(chunk){
+        body += chunk;
+    });
+
+    res.on('end', function(){
+        var response = JSON.parse(body);
+        console.log("Got a response: ", response.picture);
+    });
+}).on('error', function(e){
+      console.log("Got an error: ", e);
+});
 
   var posts = {
   	"name": "Joshua Holmes",
@@ -15,12 +30,24 @@ module.exports = function (app) {
   		"image": "/img/image_file.jpg",
   		"content": ""
   	},
+              {
+  		"github": true,
+  		"title": "Studio39/Composit",
+  		"image": "",
+  		"content": "Creating an easier way to do stuff."
+  	},
          {
   		"behance": true,
   		"title": "A New Type of Imprint Volume Six",
   		"image": "/img/behance-example.jpg",
   		"content": "Art Direction • Editorial Design • Photography"
-  	}    
+  	}    ,
+                  {
+  		"bitbucket": true,
+  		"title": "Studio39 Snapchat clone",
+  		"image": "",
+  		"content": "Making snapchat, exactly the same but with less features."
+  	}
              ]
   };
     
