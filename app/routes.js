@@ -1,19 +1,23 @@
 module.exports = function (app) {
     
-https.get('https://www.behance.net/v2/users/joshdholmes?api_key=LRsUjtF1ZLMB84T7QF7zoS7Mn7jLPNwA', function(res){
-    var body = '';
+function getBehanceData(callbackData){
+  var body = '';
 
-    res.on('data', function(chunk){
-        body += chunk;
-    });
+  callback = function(response) {
+      
+        response.on('data', function (chunk) {
+              body += chunk;
+        });
 
-    res.on('end', function(){
-        var response = JSON.parse(body);
-        console.log("Got a response: ", response.picture);
-    });
-}).on('error', function(e){
-      console.log("Got an error: ", e);
-});
+        response.on('end', function () {
+          var response = JSON.parse(body);
+          callbackData(response);
+        });
+  }
+
+  var res = https.get('https://www.behance.net/v2/users/joshdholmes?api_key=LRsUjtF1ZLMB84T7QF7zoS7Mn7jLPNwA',     callback).end();
+
+}
 
   var posts = {
   	"name": "Joshua Holmes",
@@ -50,6 +54,14 @@ https.get('https://www.behance.net/v2/users/joshdholmes?api_key=LRsUjtF1ZLMB84T7
   	}
              ]
   };
+    
+    
+getBehanceData(function(data){
+    console.log(data);
+    posts.posts[3].title = data.user.username;
+    posts.posts[3].images = data.user.username;
+    posts.posts[3].content = data.user.fields;
+});
     
 app.get('/', function(req, res) {
     data = {};
