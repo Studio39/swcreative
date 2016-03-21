@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 module.exports = function (app, Twitter, fs) {
 
 var client = new Twitter({
@@ -82,12 +83,26 @@ function getBehanceData(callbackData){
               body += chunk;
         });
 
+=======
+module.exports = function (app) {
+    
+function getBehanceData(callbackData){
+  var body = '';
+
+  callback = function(response) {
+      
+        response.on('data', function (chunk) {
+              body += chunk;
+        });
+
+>>>>>>> origin/master
         response.on('end', function () {
           var response = JSON.parse(body);
           callbackData(response);
         });
   }
 
+<<<<<<< HEAD
   var res = https.get('https://www.behance.net/v2/users/joshdholmes?api_key=KEY_OMITTED',     callback).end();
 
 }
@@ -98,8 +113,21 @@ getBehanceData(function(data){
     posts.posts[3].images = data.user.username;
     posts.posts[3].content = data.user.fields;
 });
+=======
+  var res = https.get('https://www.behance.net/v2/users/joshdholmes?api_key=LRsUjtF1ZLMB84T7QF7zoS7Mn7jLPNwA',     callback).end();
+
+}
+>>>>>>> origin/master
 
     
+    
+    
+getBehanceData(function(data){
+    console.log(data);
+    posts.posts[3].title = data.user.username;
+    posts.posts[3].images = data.user.username;
+    posts.posts[3].content = data.user.fields;
+});
     
 app.get('/', function(req, res) {
     var data = getPosts();
