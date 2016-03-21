@@ -1,0 +1,3273 @@
+[
+  {
+    "created_at": "Sat Mar 19 11:24:59 +0000 2016",
+    "id": 711151478971367400,
+    "id_str": "711151478971367424",
+    "text": "@pjlaurie I like your rugby commentary almost as much as your startup commentary.",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 711130240756518900,
+    "in_reply_to_status_id_str": "711130240756518912",
+    "in_reply_to_user_id": 14730703,
+    "in_reply_to_user_id_str": "14730703",
+    "in_reply_to_screen_name": "pjlaurie",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pjlaurie",
+          "name": "Peter Laurie",
+          "id": 14730703,
+          "id_str": "14730703",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 11:06:37 +0000 2016",
+    "id": 711146853673271300,
+    "id_str": "711146853673271296",
+    "text": "RT @QUTCEA: Awesome work by #SWCreativeTech teams. Refueled and working hard to get ideas ready for pitching tomorrow!",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 19 10:35:58 +0000 2016",
+      "id": 711139143590355000,
+      "id_str": "711139143590354944",
+      "text": "Awesome work by #SWCreativeTech teams. Refueled and working hard to get ideas ready for pitching tomorrow!",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 36550000,
+        "id_str": "36550000",
+        "name": "Creative Enterprise",
+        "screen_name": "QUTCEA",
+        "location": "Brisbane",
+        "description": "QUT Creative Enterprise Australia helps start, grow, scale & connect Creative Industries companies. CEA Startup Fund + @c3forum + The Coterie coworking space +",
+        "url": "http://t.co/LXVWuhdQaz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/LXVWuhdQaz",
+                "expanded_url": "http://www.qutcea.com",
+                "display_url": "qutcea.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2595,
+        "friends_count": 1070,
+        "listed_count": 149,
+        "created_at": "Thu Apr 30 01:22:51 +0000 2009",
+        "favourites_count": 2859,
+        "utc_offset": 36000,
+        "time_zone": "Brisbane",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3058,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000059763797/6685f3288d3578f4c973130b23fa8f1b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000059763797/6685f3288d3578f4c973130b23fa8f1b.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/450400642784182272/Lx8pY9Wb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/450400642784182272/Lx8pY9Wb_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36550000/1412643942",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 7,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SWCreativeTech",
+            "indices": [
+              16,
+              31
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SWCreativeTech",
+          "indices": [
+            28,
+            43
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "QUTCEA",
+          "name": "Creative Enterprise",
+          "id": 36550000,
+          "id_str": "36550000",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 19 02:46:49 +0000 2016",
+    "id": 711021078634569700,
+    "id_str": "711021078634569728",
+    "text": "@CITYPUBLICITY Woot! It's been too long. Looking forward to catching up :)",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 710982047657910300,
+    "in_reply_to_status_id_str": "710982047657910272",
+    "in_reply_to_user_id": 16923632,
+    "in_reply_to_user_id_str": "16923632",
+    "in_reply_to_screen_name": "CITYPUBLICITY",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CITYPUBLICITY",
+          "name": "Peta Ellis",
+          "id": 16923632,
+          "id_str": "16923632",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 22:24:32 +0000 2016",
+    "id": 710955072516063200,
+    "id_str": "710955072516063233",
+    "text": "Note to self: play the long game.",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 22:10:46 +0000 2016",
+    "id": 710951604715790300,
+    "id_str": "710951604715790336",
+    "text": "RT @jasonfried: Even if you’re not in sales, you’re in sales. You have to sell your ideas, your point of view, your suggestions, your value…",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 18 22:09:27 +0000 2016",
+      "id": 710951273831526400,
+      "id_str": "710951273831526401",
+      "text": "Even if you’re not in sales, you’re in sales. You have to sell your ideas, your point of view, your suggestions, your value, your…",
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14372143,
+        "id_str": "14372143",
+        "name": "Jason Fried",
+        "screen_name": "jasonfried",
+        "location": "Chicago, IL",
+        "description": "Founder & CEO at http://t.co/TVvm5wkvn2. Co-author of Getting Real, Remote, and NYT Bestseller REWORK. Also at http://t.co/tx3Y29ZTyH",
+        "url": "http://t.co/gYy2I68Avc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gYy2I68Avc",
+                "expanded_url": "http://www.basecamp.com",
+                "display_url": "basecamp.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/TVvm5wkvn2",
+                "expanded_url": "http://Basecamp.com",
+                "display_url": "Basecamp.com",
+                "indices": [
+                  17,
+                  39
+                ]
+              },
+              {
+                "url": "http://t.co/tx3Y29ZTyH",
+                "expanded_url": "http://Instagram.com/jason.fried",
+                "display_url": "Instagram.com/jason.fried",
+                "indices": [
+                  111,
+                  133
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 164673,
+        "friends_count": 199,
+        "listed_count": 9453,
+        "created_at": "Sun Apr 13 01:31:17 +0000 2008",
+        "favourites_count": 1701,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 23305,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435310652878774272/tkGROK_J.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435310652878774272/tkGROK_J.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14372143/1351443706",
+        "profile_link_color": "999999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "222222",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 453,
+      "favorite_count": 590,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 453,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jasonfried",
+          "name": "Jason Fried",
+          "id": 14372143,
+          "id_str": "14372143",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 22:10:30 +0000 2016",
+    "id": 710951538810683400,
+    "id_str": "710951538810683392",
+    "text": "@Dan_Fennessy Marketplaces with stacked demand seem to win early and will go along way with the momentum.",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 710950410153041900,
+    "in_reply_to_status_id_str": "710950410153041920",
+    "in_reply_to_user_id": 18879724,
+    "in_reply_to_user_id_str": "18879724",
+    "in_reply_to_screen_name": "Dan_Fennessy",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Dan_Fennessy",
+          "name": "Dan Fennessy",
+          "id": 18879724,
+          "id_str": "18879724",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 21:58:01 +0000 2016",
+    "id": 710948397373460500,
+    "id_str": "710948397373460481",
+    "text": "@LauraBlue4 It's really one #StartupWeekend followed by a bunch more since. I learn new things every time and it's a great way to give back.",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 710938747810910200,
+    "in_reply_to_status_id_str": "710938747810910208",
+    "in_reply_to_user_id": 554945943,
+    "in_reply_to_user_id_str": "554945943",
+    "in_reply_to_screen_name": "LauraBlue4",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "StartupWeekend",
+          "indices": [
+            28,
+            43
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LauraBlue4",
+          "name": "Laura Blue",
+          "id": 554945943,
+          "id_str": "554945943",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 21:49:05 +0000 2016",
+    "id": 710946150795202600,
+    "id_str": "710946150795202560",
+    "text": "I'm big on learning to code. I'm also big on https://t.co/Su9Qx3SKbo for email. More people should get on board with that. #email #brevity",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "email",
+          "indices": [
+            123,
+            129
+          ]
+        },
+        {
+          "text": "brevity",
+          "indices": [
+            130,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Su9Qx3SKbo",
+          "expanded_url": "http://three.sentenc.es",
+          "display_url": "three.sentenc.es",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 14:30:58 +0000 2016",
+    "id": 710835895616741400,
+    "id_str": "710835895616741376",
+    "text": "@octothorpe @sdw a response to that lame photo of a grassy section of a park with a path worn through it just next to a proper footpath?",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 710830401204437000,
+    "in_reply_to_status_id_str": "710830401204436992",
+    "in_reply_to_user_id": 756084,
+    "in_reply_to_user_id_str": "756084",
+    "in_reply_to_screen_name": "octothorpe",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "octothorpe",
+          "name": "CM Harrington",
+          "id": 756084,
+          "id_str": "756084",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "sdw",
+          "name": "Sebastiaan de With",
+          "id": 6503412,
+          "id_str": "6503412",
+          "indices": [
+            12,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 13:54:01 +0000 2016",
+    "id": 710826593409577000,
+    "id_str": "710826593409576960",
+    "text": "RT @LizzieMoss32: \"Welcome to hustle town\" @DwightGunning @QUTCEA #startup #SWCreativeTech",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 18 09:38:00 +0000 2016",
+      "id": 710762168690483200,
+      "id_str": "710762168690483200",
+      "text": "\"Welcome to hustle town\" @DwightGunning @QUTCEA #startup #SWCreativeTech",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 828535423,
+        "id_str": "828535423",
+        "name": "Lizzie Moss",
+        "screen_name": "LizzieMoss32",
+        "location": "Brisbane",
+        "description": "19, Bachelor of Journalism, QUT\nPart-time blogger, full-time attention seeker.",
+        "url": "https://t.co/RMaY0BHkUa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RMaY0BHkUa",
+                "expanded_url": "http://onefinemorningblog.wordpress.com",
+                "display_url": "onefinemorningblog.wordpress.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 106,
+        "friends_count": 274,
+        "listed_count": 27,
+        "created_at": "Mon Sep 17 07:07:15 +0000 2012",
+        "favourites_count": 185,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 659,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/642663099053420544/jx5YZlKd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/642663099053420544/jx5YZlKd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828535423/1456375909",
+        "profile_link_color": "38AFC7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "startup",
+            "indices": [
+              48,
+              56
+            ]
+          },
+          {
+            "text": "SWCreativeTech",
+            "indices": [
+              57,
+              72
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DwightGunning",
+            "name": "Dwight Gunning",
+            "id": 14156624,
+            "id_str": "14156624",
+            "indices": [
+              25,
+              39
+            ]
+          },
+          {
+            "screen_name": "QUTCEA",
+            "name": "Creative Enterprise",
+            "id": 36550000,
+            "id_str": "36550000",
+            "indices": [
+              40,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "startup",
+          "indices": [
+            66,
+            74
+          ]
+        },
+        {
+          "text": "SWCreativeTech",
+          "indices": [
+            75,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LizzieMoss32",
+          "name": "Lizzie Moss",
+          "id": 828535423,
+          "id_str": "828535423",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "DwightGunning",
+          "name": "Dwight Gunning",
+          "id": 14156624,
+          "id_str": "14156624",
+          "indices": [
+            43,
+            57
+          ]
+        },
+        {
+          "screen_name": "QUTCEA",
+          "name": "Creative Enterprise",
+          "id": 36550000,
+          "id_str": "36550000",
+          "indices": [
+            58,
+            65
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 08:42:14 +0000 2016",
+    "id": 710748132041056300,
+    "id_str": "710748132041056257",
+    "text": "Too late! The place as already beyond pumping... https://t.co/teVE99ysRY",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 710747534600241200,
+    "quoted_status_id_str": "710747534600241153",
+    "quoted_status": {
+      "created_at": "Fri Mar 18 08:39:51 +0000 2016",
+      "id": 710747534600241200,
+      "id_str": "710747534600241153",
+      "text": "#SWCreativeTech @QUTCEA is pumping guys! 54hrs of amazing creative tech ideas kicking off @AdvanceQld #startupaus https://t.co/O1vhK8WyLx",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 36550000,
+        "id_str": "36550000",
+        "name": "Creative Enterprise",
+        "screen_name": "QUTCEA",
+        "location": "Brisbane",
+        "description": "QUT Creative Enterprise Australia helps start, grow, scale & connect Creative Industries companies. CEA Startup Fund + @c3forum + The Coterie coworking space +",
+        "url": "http://t.co/LXVWuhdQaz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/LXVWuhdQaz",
+                "expanded_url": "http://www.qutcea.com",
+                "display_url": "qutcea.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2595,
+        "friends_count": 1070,
+        "listed_count": 149,
+        "created_at": "Thu Apr 30 01:22:51 +0000 2009",
+        "favourites_count": 2859,
+        "utc_offset": 36000,
+        "time_zone": "Brisbane",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3058,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000059763797/6685f3288d3578f4c973130b23fa8f1b.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000059763797/6685f3288d3578f4c973130b23fa8f1b.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/450400642784182272/Lx8pY9Wb_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/450400642784182272/Lx8pY9Wb_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36550000/1412643942",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SWCreativeTech",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "text": "startupaus",
+            "indices": [
+              102,
+              113
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "QUTCEA",
+            "name": "Creative Enterprise",
+            "id": 36550000,
+            "id_str": "36550000",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "screen_name": "AdvanceQld",
+            "name": "Advance Queensland",
+            "id": 3299337643,
+            "id_str": "3299337643",
+            "indices": [
+              90,
+              101
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 710747520624762900,
+            "id_str": "710747520624762880",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cd0VGrPUIAAXnkw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cd0VGrPUIAAXnkw.jpg",
+            "url": "https://t.co/O1vhK8WyLx",
+            "display_url": "pic.twitter.com/O1vhK8WyLx",
+            "expanded_url": "http://twitter.com/QUTCEA/status/710747534600241153/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 710747520624762900,
+            "id_str": "710747520624762880",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cd0VGrPUIAAXnkw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cd0VGrPUIAAXnkw.jpg",
+            "url": "https://t.co/O1vhK8WyLx",
+            "display_url": "pic.twitter.com/O1vhK8WyLx",
+            "expanded_url": "http://twitter.com/QUTCEA/status/710747534600241153/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/teVE99ysRY",
+          "expanded_url": "https://twitter.com/QUTCEA/status/710747534600241153",
+          "display_url": "twitter.com/QUTCEA/status/…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 08:39:40 +0000 2016",
+    "id": 710747486277623800,
+    "id_str": "710747486277623809",
+    "text": "This is #SWCreativeTech at @QUTCEA .... Live DJ, a foodtruck, and a bar rustling up tasty cocktails. @StartupWeekend https://t.co/Hetlb7CAMV",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SWCreativeTech",
+          "indices": [
+            8,
+            23
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "QUTCEA",
+          "name": "Creative Enterprise",
+          "id": 36550000,
+          "id_str": "36550000",
+          "indices": [
+            27,
+            34
+          ]
+        },
+        {
+          "screen_name": "StartupWeekend",
+          "name": "Startup Weekend",
+          "id": 7315022,
+          "id_str": "7315022",
+          "indices": [
+            101,
+            116
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 710747386293801000,
+          "id_str": "710747386293800961",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cd0U-20UUAEQBqV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cd0U-20UUAEQBqV.jpg",
+          "url": "https://t.co/Hetlb7CAMV",
+          "display_url": "pic.twitter.com/Hetlb7CAMV",
+          "expanded_url": "http://twitter.com/DwightGunning/status/710747486277623809/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 710747386293801000,
+          "id_str": "710747386293800961",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cd0U-20UUAEQBqV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cd0U-20UUAEQBqV.jpg",
+          "url": "https://t.co/Hetlb7CAMV",
+          "display_url": "pic.twitter.com/Hetlb7CAMV",
+          "expanded_url": "http://twitter.com/DwightGunning/status/710747486277623809/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 710747420208959500,
+          "id_str": "710747420208959492",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cd0VA1KUkAQxTOu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cd0VA1KUkAQxTOu.jpg",
+          "url": "https://t.co/Hetlb7CAMV",
+          "display_url": "pic.twitter.com/Hetlb7CAMV",
+          "expanded_url": "http://twitter.com/DwightGunning/status/710747486277623809/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 766,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 254,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 710747453230686200,
+          "id_str": "710747453230686208",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cd0VCwLUIAAl1yc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cd0VCwLUIAAl1yc.jpg",
+          "url": "https://t.co/Hetlb7CAMV",
+          "display_url": "pic.twitter.com/Hetlb7CAMV",
+          "expanded_url": "http://twitter.com/DwightGunning/status/710747486277623809/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 02:17:55 +0000 2016",
+    "id": 710651417434808300,
+    "id_str": "710651417434808320",
+    "text": "RT @kpcb: Design in venture capital is not about 'pretty' - it's about relevance. #DesignInTech https://t.co/guNQ6t8HNM",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 18 02:00:19 +0000 2016",
+      "id": 710646986232492000,
+      "id_str": "710646986232492032",
+      "text": "Design in venture capital is not about 'pretty' - it's about relevance. #DesignInTech https://t.co/guNQ6t8HNM",
+      "truncated": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 185808487,
+        "id_str": "185808487",
+        "name": "Kleiner Perkins",
+        "screen_name": "kpcb",
+        "location": "Menlo Park, CA",
+        "description": "Partnering with entrepreneurs to build companies from success to significance. Dream Bigger.",
+        "url": "https://t.co/nlfXgzJVqO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nlfXgzJVqO",
+                "expanded_url": "http://www.kpcb.com",
+                "display_url": "kpcb.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 162300,
+        "friends_count": 1225,
+        "listed_count": 2994,
+        "created_at": "Wed Sep 01 22:03:25 +0000 2010",
+        "favourites_count": 4267,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6578,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "33B780",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/163042196/Twitter_KP_swatch.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/163042196/Twitter_KP_swatch.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615586435521843200/gyYfKiks_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615586435521843200/gyYfKiks_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/185808487/1446512911",
+        "profile_link_color": "33B780",
+        "profile_sidebar_border_color": "333333",
+        "profile_sidebar_fill_color": "222222",
+        "profile_text_color": "888888",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 40,
+      "favorite_count": 56,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DesignInTech",
+            "indices": [
+              72,
+              85
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 710646985846558700,
+            "id_str": "710646985846558720",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+            "url": "https://t.co/guNQ6t8HNM",
+            "display_url": "pic.twitter.com/guNQ6t8HNM",
+            "expanded_url": "http://twitter.com/kpcb/status/710646986232492032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 334,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 570,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 189,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 710646985846558700,
+            "id_str": "710646985846558720",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+            "url": "https://t.co/guNQ6t8HNM",
+            "display_url": "pic.twitter.com/guNQ6t8HNM",
+            "expanded_url": "http://twitter.com/kpcb/status/710646986232492032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 334,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 570,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 189,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DesignInTech",
+          "indices": [
+            82,
+            95
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "kpcb",
+          "name": "Kleiner Perkins",
+          "id": 185808487,
+          "id_str": "185808487",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 710646985846558700,
+          "id_str": "710646985846558720",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+          "url": "https://t.co/guNQ6t8HNM",
+          "display_url": "pic.twitter.com/guNQ6t8HNM",
+          "expanded_url": "http://twitter.com/kpcb/status/710646986232492032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 570,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 189,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 710646986232492000,
+          "source_status_id_str": "710646986232492032",
+          "source_user_id": 185808487,
+          "source_user_id_str": "185808487"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 710646985846558700,
+          "id_str": "710646985846558720",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cdy5qyAWEAAKf2h.jpg",
+          "url": "https://t.co/guNQ6t8HNM",
+          "display_url": "pic.twitter.com/guNQ6t8HNM",
+          "expanded_url": "http://twitter.com/kpcb/status/710646986232492032/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 334,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 570,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 189,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 710646986232492000,
+          "source_status_id_str": "710646986232492032",
+          "source_user_id": 185808487,
+          "source_user_id_str": "185808487"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 00:58:54 +0000 2016",
+    "id": 710631530679246800,
+    "id_str": "710631530679246849",
+    "text": "@fud @StackExchange Right. I liked the look of Sails when it first launched a fee years back.",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 710630233301332000,
+    "in_reply_to_status_id_str": "710630233301331968",
+    "in_reply_to_user_id": 11157392,
+    "in_reply_to_user_id_str": "11157392",
+    "in_reply_to_screen_name": "fud",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "fud",
+          "name": "fud",
+          "id": 11157392,
+          "id_str": "11157392",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "screen_name": "StackExchange",
+          "name": "Stack Exchange",
+          "id": 179698068,
+          "id_str": "179698068",
+          "indices": [
+            5,
+            19
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 00:52:34 +0000 2016",
+    "id": 710629938592809000,
+    "id_str": "710629938592808960",
+    "text": "@fud what's state of the art for backend JavaScript web-app frameworks.... Node + Sails, Meteor, Tower?",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 710628421416517600,
+    "in_reply_to_status_id_str": "710628421416517632",
+    "in_reply_to_user_id": 11157392,
+    "in_reply_to_user_id_str": "11157392",
+    "in_reply_to_screen_name": "fud",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "fud",
+          "name": "fud",
+          "id": 11157392,
+          "id_str": "11157392",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 18 00:47:38 +0000 2016",
+    "id": 710628697066176500,
+    "id_str": "710628697066176513",
+    "text": "@brettneese @shanereiser that sort of wisdom deserves to be shared. Reminds me of @GoodDsgnAdvice",
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 708145643383029800,
+    "in_reply_to_status_id_str": "708145643383029760",
+    "in_reply_to_user_id": 14074978,
+    "in_reply_to_user_id_str": "14074978",
+    "in_reply_to_screen_name": "brettneese",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "brettneese",
+          "name": "brett neese",
+          "id": 14074978,
+          "id_str": "14074978",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "shanereiser",
+          "name": "Shane Reiser",
+          "id": 14827652,
+          "id_str": "14827652",
+          "indices": [
+            12,
+            24
+          ]
+        },
+        {
+          "screen_name": "GoodDsgnAdvice",
+          "name": "GFDA",
+          "id": 191124342,
+          "id_str": "191124342",
+          "indices": [
+            82,
+            97
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 10:00:06 +0000 2016",
+    "id": 710405340211228700,
+    "id_str": "710405340211228672",
+    "text": "Last sleep before we rock Startup Weekend #SWCreativeTech in @QUTCEA #Brisbane #startupaus — Who’s pitching?!!?",
+    "truncated": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SWCreativeTech",
+          "indices": [
+            42,
+            57
+          ]
+        },
+        {
+          "text": "Brisbane",
+          "indices": [
+            69,
+            78
+          ]
+        },
+        {
+          "text": "startupaus",
+          "indices": [
+            79,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "QUTCEA",
+          "name": "Creative Enterprise",
+          "id": 36550000,
+          "id_str": "36550000",
+          "indices": [
+            61,
+            68
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 01:12:23 +0000 2016",
+    "id": 710272535133171700,
+    "id_str": "710272535133171712",
+    "text": "@dwightgunning This applies to Twitter too.",
+    "truncated": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 710272259923976200,
+    "in_reply_to_status_id_str": "710272259923976192",
+    "in_reply_to_user_id": 14156624,
+    "in_reply_to_user_id_str": "14156624",
+    "in_reply_to_screen_name": "DwightGunning",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DwightGunning",
+          "name": "Dwight Gunning",
+          "id": 14156624,
+          "id_str": "14156624",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 01:11:17 +0000 2016",
+    "id": 710272259923976200,
+    "id_str": "710272259923976192",
+    "text": "For the Facebook I need a permanent disclaimer that a Thumbs Up reply means your message is 98.5% likely to slip through the cracks.",
+    "truncated": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 710271773237874700,
+    "in_reply_to_status_id_str": "710271773237874688",
+    "in_reply_to_user_id": 14156624,
+    "in_reply_to_user_id_str": "14156624",
+    "in_reply_to_screen_name": "DwightGunning",
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 01:09:21 +0000 2016",
+    "id": 710271773237874700,
+    "id_str": "710271773237874688",
+    "text": "Wish LinkedIn could put an OOO / auto-reply feature on their messaging so I could let people know I rarely check that mailboxes.",
+    "truncated": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14156624,
+      "id_str": "14156624",
+      "name": "Dwight Gunning",
+      "screen_name": "DwightGunning",
+      "location": "Amsterdam & Gold Coast",
+      "description": "Tech, startups, web and software dev. Founder of http://t.co/wmgI5tQePf. Australian now based in The Netherlands and always on the move.",
+      "url": "http://t.co/M2x7yZ7ROD",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/M2x7yZ7ROD",
+              "expanded_url": "http://www.dwightgunning.com",
+              "display_url": "dwightgunning.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/wmgI5tQePf",
+              "expanded_url": "http://knownly.net",
+              "display_url": "knownly.net",
+              "indices": [
+                49,
+                71
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1744,
+      "friends_count": 1020,
+      "listed_count": 78,
+      "created_at": "Sun Mar 16 07:40:38 +0000 2008",
+      "favourites_count": 11054,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4858,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ACDED6",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590015747281145856/4JRryoVq.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/590012609597874176/kNDa12Gx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14156624/1429504731",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "name": "John Doe",
+  "profile_picture": "/img/profile_pic.jpg",
+  "cover_picture": "/img/cover_pic.jpg",
+  "bio": "Humblebrag pinterest direct trade portland four dollar toast 3 wolf moon master cleanse, cliche street art freegan ugh twee. Kinfolk pork belly authentic, deep v mumblecore meggings blog austin. Four dollar toast hella bicycle rights, brooklyn etsy iPhone kinfolk typewriter intelligentsia master cleanse shabby chic affogato gochujang.",
+  "twitter_handle": "nsg223",
+  "twitter_followers": 1744,
+  "posts": [
+    {
+      "dribbble": true,
+      "title": "My Playstore design",
+      "image": "/img/Playstore.png",
+      "content": "Created the my design for google play store. It is definatly out there"
+    },
+    {
+      "twitter": true,
+      "tweet": "How I went from 100 followers to 100 million in just one week.",
+      "image": "",
+      "content": "",
+      "user": "nsg223",
+      "timestamp": "Mar 15"
+    },
+    {
+      "github": true,
+      "title": "Studio39/Composit",
+      "image": "",
+      "content": "Creating an easier way to do stuff."
+    },
+    {
+      "behance": true,
+      "title": "A New Type of Imprint Volume Six",
+      "image": "/img/behance-example.jpg",
+      "content": "Art Direction • Editorial Design • Photography"
+    },
+    {
+      "twitter": true,
+      "tweet": "Why I started commiting to git more frequently.",
+      "image": "/img/image_file.jpg",
+      "content": "",
+      "user": "nsg223",
+      "timestamp": "Mar 19"
+    },
+    {
+      "bitbucket": true,
+      "title": "Studio39 Snapchat clone",
+      "image": "",
+      "content": "Making snapchat, exactly the same but with less features."
+    },
+    {
+      "dribbble": true,
+      "title": "Alert",
+      "image": "/img/dribbble-example.png",
+      "content": "Making snapchat, exactly the same but with less features."
+    },
+       {
+      "github": true,
+      "title": "MkCreator/Curator_Module",
+      "image": "",
+      "content": "Content curator for Mkcreator tech corporation"
+    },
+    {
+      "twitter": true,
+      "tweet": "Coffee in the morning, coffee at midday, coffee at night, as you can tell coffee is my life",
+      "image": "/img/coffee.jpg",
+      "content": "",
+      "user": "nsg223",
+            "timestamp": "Mar 19"
+    },
+    {
+      "behance": true,
+      "title": "New Robin hood character design I have been working on",
+      "image": "/img/robin.jpg",
+      "content": "Art Direction • Character Design • Artistic "
+    },
+    {
+      "bitbucket": true,
+      "title": "Circle menu",
+      "image": "",
+      "content": "Using the new velocity animation i created a circular menu"
+    }
+  ]
+}

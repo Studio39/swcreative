@@ -1,10 +1,7 @@
-<!--
 
 <div class="feature-img text-center" style="background-image: url('{{cover_picture}}');'" >
-    <img src="{{profile_picture}}" alt="{{name}} composit profile." class="img-circle img-thumbnail">
-    <h1> {{name}} </h1>
+
 </div>
--->
     
     <div class="bio container">
         <div class="row">
@@ -16,17 +13,25 @@
             <div class="col-sm-8">
     
     <h1 class="text-right"> {{name}} </h1>
-
-      <ul class="social-icons">
-        <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="123 Followers"> <i class="fa fa-twitter"></i> </a></li>
-          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="24 Followers"> <i class="fa fa-github"></i> </a></li>
-          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="12 Followers" > <i class="fa fa-bitbucket"></i> </a></li>
-          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="132 Followers" > <i class="fa fa-behance"></i> </a></li>
+            <h5 class="text-right">Composit Score 8.3</h5>
+<!--            <h5 class="text-center">Composit Score</h5>-->
+      <ul class="social-icons" style="padding-left:0;">
+        <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="{{twitter_followers}} Followers"> <i class="fa fa-twitter"></i></a><span class="comp-score">8.6</span> </li>
+          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="24 Followers"> <i class="fa fa-github"></i> </a> <span class="comp-score">5.6</span></li>
+          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="12 Followers" > <i class="fa fa-bitbucket"></i> </a> <span class="comp-score">7.6</span></li>
+          <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="132 Followers" > <i class="fa fa-behance"></i> </a> <span class="comp-score">8.6</span></li>
+                    <li><a href="#" data-toggle="tooltip" data-placement="bottom" title="879 Reputation" > <i class="fa fa-stack-overflow"></i> </a> <span class="comp-score">9.8</span></li>
       </ul>
                 
         </div>
-            <div class="cleafix"></div>
+            <div class="clearfix"></div>
             
+        <div class="row" style="margin-top:30px;">
+            <div class="col-md-12">
+                    <p> {{bio}}</p>
+                </div>
+        </div>
+
         </div>
             </div>
     </div>  
@@ -34,18 +39,18 @@
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            {{#each posts}}
+            
+                    {{#each posts}}
 
-                {{#if twitter}}
+                {{#if tweet}}
             
                 <div class="post twitter">
                     {{#if image}}
                     <img src="{{image}}" alt="{{title}}" class="img-responsive img-rounded">
                     {{/if}}
-                    <h3> {{title}} </h3>
-                    <p><strong>Nate Sanchez</strong> @nsg223 &bull; March 15</p>
-                    <p>     {{content}} </p>
-                    <p class="pull-right">View on <i class='fa fa-twitter'></i> Twitter </p>
+                    <h3> {{tweet}} </h3>
+                    <p><strong>Nate Sanchez</strong> @{{user}} &bull; {{timestamp}}</p>
+                    <p class="pull-right"><a href="https://twitter.com/status/{{url}}" target="_blank">View on <i class='fa fa-twitter'></i> Twitter </a></p>
                 </div>
             
                 {{/if}}
@@ -84,7 +89,23 @@
                 </div>
                 {{/if}}
             
+                {{#if dribbble}}
+                <div class="post dribble">
+                {{#if image}}
+                <img src="{{image}}" alt="{{title}}" class="img-responsive img-rounded">
+                {{/if}}
+                <h3> {{title}} </h3>
+                <p>     {{content}} </p>
+                <p class="pull-right">View on <i class='fa fa-dribbble'></i> Dribbble </p>
+                </div>
+                {{/if}}
+            
             {{/each}}
+  </div>
+
+</div>
+            
+
         </div>
     </div>
     
